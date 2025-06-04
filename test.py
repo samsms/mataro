@@ -1,5 +1,5 @@
-print("hello world")
-print("hello world2")
+print("helworld")
+print("world2")
 Commits on Jun 4, 2025
 modified my file
 samsms
